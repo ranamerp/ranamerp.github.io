@@ -154,9 +154,9 @@
 
     /* text
      */
-    --color-text        : var(--color-gray-4);
+    --color-text        : var(--color-gray-2);
     --color-text-dark   : var(--color-white);
-    --color-text-light  : var(--color-gray-3);
+    --color-text-light  : var(--color-gray-1);
     --color-placeholder : var(--color-gray-7);
 
     /* buttons
@@ -3591,7 +3591,7 @@ img.u-pull-left {
 
 .s-works {
     padding-top    : var(--vspace-5);
-    padding-bottom : var(--vspace-3_5);
+    padding-bottom : var(--vspace-1);
     background-image: linear-gradient(to bottom,#ad4eeb, #e251c3)
 }
 
@@ -4044,12 +4044,12 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 
 .s-contact {
-    padding-top    : var(--vspace-5);
+    padding-top    : var(--vspace-1);
     padding-bottom : var(--vspace-3_5);
     background-image: linear-gradient(to bottom,#e251c3, #ff6658)
 }
 .contact-top {
-    padding-top : var(--vspace-5);
+    padding-top : var(--vspace-1);
     border-top  : 1px solid var(--color-border);
 }
 
